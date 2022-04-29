@@ -13,8 +13,8 @@
 ## <b>3) TO START THE PROJECT</b>:
 ## `yarn start`
 
-## <b>4) TO CONFIGURE YOUR GIT *(ITS IMPORTANT REMOVE THE CURRENT REMOTE ORIGIN AND TO RESTART THE GIT)]</b>:
-## `git remote remove origin`
+## <b>4) TO CONFIGURE YOUR GIT *(RESTART THE GIT AND SET YOUR OWN REMOTE REPOSITORY)]</b>:
 ## `git init`
+## `git remote set-url origin {your-remote-repository-url}`
 ## `Continue with your git instructions...`
 ## <b> Enjoy it. </b>
