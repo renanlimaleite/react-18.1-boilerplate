@@ -1,6 +1,6 @@
 # Basic boilerplate with only ReactJS 18.01, eslint and editorconfig already configurated.
 
-## <b><i>ATTENTION TO STEP 4 WITH YOU WANT THIS PROJECT IN YOUR GIT</i></b>
+## <b><i>ATTENTION TO STEP 4 IF YOU WANT THIS PROJECT IN YOUR GIT</i></b>
 
 
 ## <b>1) TO CLONE THE PROJECT</b>:
